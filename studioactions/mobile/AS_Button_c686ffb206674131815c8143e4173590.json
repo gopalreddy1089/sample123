@@ -1,0 +1,23 @@
+{
+    "AS_Button_c686ffb206674131815c8143e4173590": {
+        "id": "AS_Button_c686ffb206674131815c8143e4173590",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1125df0da5140538f798f8ace9ab899"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_j1794785f8344db4ba9896f09703b4ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flushEvents();",
+            "parentId": null
+        }]
+    }
+}

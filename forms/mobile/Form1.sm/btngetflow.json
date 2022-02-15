@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0697ea494344bf1bceaa35a4ddf263c",
+    "_text_": "GetFlow",
+    "_top_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc979fd62627498082d84355a98a3f27",
+    "id": "btngetflow",
+    "ide_onClick": "AS_Button_c85c04a61f2d4962a0bdef9ffa824a2e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h0e013a4fb4844c0ab0952a38e58aff0",
+    "name": "kony.ui.Button",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
